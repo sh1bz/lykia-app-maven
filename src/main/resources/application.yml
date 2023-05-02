@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: lykiaAppMaven
+netty:
+  default:
+    allocator:
+      max-order: 3
